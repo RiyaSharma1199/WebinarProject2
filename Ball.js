@@ -20,7 +20,7 @@ class Ball {
       push();
       translate(pos.x, pos.y);
       rotate(angle);
-      strokeWeight(5);
+      strokeWeight(3);
       stroke('black')
       fill('yellow')
       ellipseMode(RADIUS)
