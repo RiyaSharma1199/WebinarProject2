@@ -1,2 +1,2 @@
-# angryBirdsStage1
-Stage 1 Angry Birds
+# WebinarProject2
+Stage2: Vanishing Blocks
